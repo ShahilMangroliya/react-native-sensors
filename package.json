@@ -52,7 +52,7 @@
     "react-native": ">=0.39.0"
   },
   "dependencies": {
-    "rxjs": ">= 6"
+    "rxjs": "^6.0.0"
   },
   "devDependencies": {
     "all-contributors-cli": "6.1.2",
